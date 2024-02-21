@@ -1,11 +1,11 @@
 {
-  "name": "project-besttim1",
+  "name": "focus_frame",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-besttim1/",
+    "build": "vite build --base=/FocusFrame/",
     "preview": "vite preview"
   },
   "devDependencies": {
